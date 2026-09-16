@@ -4,7 +4,7 @@ if n<2:
 else:
     for i in range(2,n):
         if n%i==0:
-            print("Prime")
+            print("Not Prime")
             break
         else:
-            print("not Prime")
+            print("Prime")
