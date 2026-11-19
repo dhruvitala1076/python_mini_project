@@ -1,4 +1,4 @@
-n=input("Enter a Number:")
+n=input("Enter a string:")
 
 for i in n:
     if i == n[0:1]:
